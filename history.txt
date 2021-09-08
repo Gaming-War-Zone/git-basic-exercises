@@ -1,0 +1,999 @@
+    3  touch jt22 
+    4  nano jt22
+    6  python jt22.txt
+    7  touch jt22.py
+    8  nano jt22.py
+    9  python jt22.py
+   10  python3 jt22.py
+   14  ip cocnfig
+   15  ip config
+   16  ip 
+   18  sudo
+   19  sudo -h
+   20  sudo -s 
+   22  is
+   24  macchanger
+   25  macchanger --help
+   26  ifconfig
+   27  apt update
+   29  sr
+   32  cd / usr/share/wordlists
+   33  sudo hydra
+   38  cat rockyou.txt.gz
+   40  cat wordlist.txt
+   41  touch password1.txt
+   43  touch pss.tx
+   44  touch pss.txt
+   47  sudo hydra -L "dwight.schrute" -P  pss.txt \\n45.79.49.74 ssh
+   48  sudo hydra -L "dwight.schrute" -P pss.txt
+   49  sudo hydra -L "dwight.schrute" -P pss.txt \\n45.79.49.74
+   53  sudo hydra -L "dwight.schrute" -P rockyou.txt  \\n45.79.49.74 ssh
+   56  ssh dwight.schrute@45.79.49.74
+   57  sudo hydra -L "dwight.schrute" -P \\n45.79.49.74
+   58  sudo hydra =L "dwight.schrute" -P pss.txt \\n45.79.49.74
+   60  sudo hydra -l 'dwight.schrute"\n\nexit\n"dwight.schrute"
+   61  sudo hydra -l "dwight.schrute" -P pss.txt \ 
+   62  sudo hydra -l "dwight.schrute" -P pss.txt  \\n45.79.49.74 ssh
+   63  cat pss.txt
+   64  sudo hydra -l "dwight.schrute" -P rockyou.txt  \\n45.79.49.74 ssh 
+   66  cd /usr/share/wordlists
+   69  cat rockyou.tx
+   70  sudo gzip -d rockyou.txt.gz
+   71  cat rockyou.txt
+   73  touch crackpasswords.txt
+   77  cat etc/shadow
+   79  chmod 774 file 
+   80  chmod u=rwx,g=r,o=r shadow
+   81  chmod 774 etc
+   82  chmod 774 /etc/shadow
+   84  nano crackpasswords.txt
+   85  nano pss.txt
+   86  su -
+   87  su - 
+   88  sudo passwd root
+   89  cat /etc/shadow
+   90  sudo ipconfig 
+   92  nano me.yxy
+  102  sudo hashcat -a 0 -m 1400 -o fhg.txt \\nm.txt me.txt
+  105  sudo clone blackeye
+  106  sudo clone https://github.com/An0nUD4Y/blackeye
+  110  sudo hashcat -a 0 -m 1400 -o cracks.txt\\nm.txt me.txt
+  111  m.txt
+  118  sudo hashcat -a 0 -m 1400 -o cvx.txt \\nm.txt pss.txt
+  120  nano me.tx
+  127  cd /home/gaming
+  135  cd
+  137  unzip  ngrok-stable-linux-amd64.zip 
+  143  ./ngrok help
+  149  echo "https://baeldung.com" > data.txt
+  150  sha256sum data.txt 
+  151  touch m.txt
+  153  sha256sum m.txt
+  154  nano m.txt
+  156  cd 
+  158  cd /gaming/
+  159  cd /gaming
+  160  cd gaming/blackeye/
+  180  ./ngrok authtoken 1pLQCtwrxE9hVoGYKmg9sVVAEcc_9RnuNdeWuNTzqU75yL5N
+  184  -i
+  185  cp -i
+  186  cp -i ~/Downloads
+  187  cp -i ngrok-stable-linux-amd64.zip
+  188  cp -i /Downloads/
+  190  ngrok
+  196  sites
+  198  instagram
+  199  php -S localhost:8080
+  205  unzip /path/to/ngrok.zip
+  208  unzip ngrok-stable-linux-amd64.zip
+  212  rm -i ngrok-stable-linux-amd64.zip
+  213  ow
+  216  sudo cp ngrok-stable-linux-amd64.zip blackeye
+  218  blackeye
+  222  sudo unzip ngrok-stable-linux-amd64.zip
+  225  sudo cp ngrok-2.3.35-linux-amd64.zip blackeye
+  229  1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  232  cd linkedin
+  234  cd ./blackeye/sites/linkedin
+  235  cd sites/instagram
+  237  cd login.php
+  239  sudo cd login.html
+  240  cd login.html
+  242  cd index_files
+  244  cp ngrok blackeye
+  245  sudo cp ngrok blackeye
+  253  rm -i ngrok
+  254  rm -i ngrok-2.3.35-linux-amd64.zip
+  256  sudo unzip ngrok-2.3.35-linux-amd64.zip
+  260  sudo rm -i ngrok
+  261  sudo rm -i ngrok-2.3.35-linux-amd64.zip
+  263  man hashcat 
+  264  sudo hashcat -a 0 -m 1400 -o crackedpasswords.txt  \\nm.txt me.txt
+  265  sudo hashcat -a 0 -m 1400 -o cracked.txt --potfile-disable  \\nm.txt me.txt
+  269  sudo nano me.txt
+  270  cat me/txt
+  272  sudo hashcat -a 0 -m 1400 -o crackedpasswords.txt --potifile-disable \\n
+  273  sudo hashcat -a 0 -m 1400 -o crackedpasswords.txt --potfile-disable \\nm.txt me.txt
+  275  sudo rm -i ngrok-stable-linux-amd64.zip
+  276  sudo rm -i blackeye
+  277  sudo install git clone
+  278  apt install git clone
+  279  sudo apt install git clone
+  280  sudo apt install git
+  282  git clone https://github.com/thelinuxchoice/blackeye 
+  284  git clone https://github.com/x3rz/blackeye
+  285  git clone https://github.com/An0nUD4Y/blackeye
+  294  owd
+  297  git clone ttps://github.com/x3rz/blackeye
+  298  git clone x
+  300  ipconfig
+  302  pw
+  306  rm -r blackeye
+  307  sudo rm -r blackeye
+  308  setoolkit
+  309  sudo setoolkit
+  312  sudo du
+  324  sudo git clone https://github.com/An0nUD4Y/blackeye
+  328  sudo ./ngrok http 80
+  331  cd blackeye
+  332  ./ngrok authtoken 1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  333  nano blackeye.sh
+  334  sudo nano blackeye.sh
+  335  sudo ./blackeye.sh
+  336  sudo /root
+  337  sudo cd /root
+  338  pwd
+  339  sudo su
+  340  cd blackeye
+  341  ./ngrok http 80
+  342  nano me.txt
+  343  y
+  344  cat me.txt
+  345  cat m.txt
+  346  sudo ud
+  347  sudo su
+  348  close
+  349  exit
+  350  python3
+  351  cat math.py
+  352  cat m.txt
+  353  exit
+  354  sudo su
+  355  xolse
+  356  close
+  357  cls
+  358  --help
+  359  exit --help
+  360  sudo su
+  361  cd ..
+  362  pwd
+  363  cd ..
+  364  cd..
+  365  cd ..
+  366  pwd
+  367  pwd 
+  368  cd ..
+  369  cd home
+  370  ls
+  371  cat gaming 
+  372  cd gaming 
+  373  ls
+  374  cat crackedpasswords.txt
+  375  sudo cat crackedpasswords.txt
+  376  cd root 
+  377  ls
+  378  cat crack.txt
+  379  sudo cat crack.txt
+  380  cd sherlock
+  381  ls
+  382  sudo su 
+  383  exit
+  384  sudo su
+  385  sudo pip install visual studio
+  386  la
+  387  ls
+  388  sudo dpkg -i code_1.60.0-1630494279_amd64.deb
+  389  \\ 
+  390  home
+  391  cd home/
+  392  cd home
+  393  bash Anaconda-latest-Linux-x86_64.sh
+  394  bash Anaconda-latest-Linux-x86_64.exe
+  395  bash Anaconda3-2021.05-Windows-x86_64.exe
+  396  clear
+  397  del Anaconda-latest-Linux-x86_64.exe
+  398  ls
+  399  bash Anaconda3-2021.05-Windows-x86_64.sh
+  400  bash Anaconda3-2021.05-Linux-x86_64.sh
+  401  sudo apt-get update
+  402  sudo apt-get install python3 python3-venv python3-pip
+  403  sudo dnf install python3
+  404  sudo install python3
+  405  python3 --version
+  406  cls
+  407  clear
+  408  touch hello_world.py
+  409  cat hello_world.py
+  410  print('hello world')
+  411  clear
+  412  sudo su
+  413  git push README.md
+  414  git init
+  415  sudo su 
+  416  git init
+  417  sudo su 
+  418  sudo su
+  419  sudo su
+  420  sudo su 
+  421  git init
+  422  ls -a
+  423  mkdir git-basic-exercises
+  424  ls -a
+  425  nano Task01.py
+  426  git clone https://github.com/Gaming-War-Zone/Level-0-coding-challenges.git
+  427  ls -a
+  428  cd Level-0-coding-challenges
+  429  git init
+  430  ls -a
+  431  git init
+  432  git status
+  433  git add Task01.py
+  434  git commit -m "Task0.1"
+  435  ls -a
+  436  nano Task02.py
+  437  cat Task02.py
+  438  nano Task02.py
+  439  nano Task03.py
+  440  nano Task04.py
+  441  nano Task03.py
+  442  nano Task04.py
+  443  nano Task03.py
+  444  nano Task05.py
+  445  nano Task06.py
+  446  nano Task07.py
+  447  nano Task08.py
+  448  nano Task09.py
+  449  nano Task10.py
+  450  python3 Task03.py
+  451  nano Task03.py
+  452  python3 Task03.py
+  453  ls -a
+  454  ls -a --graph --decorade --oneline
+  455  git status
+  456  git add Task02.py
+  457  git commit -m "Task0.2"
+  458  git add Task03.py
+  459  git commit -m "Task0.3"
+  460  git add Task04.py
+  461  git commit -m "Task0.4"
+  462  git add Task05.py
+  463  git commit -m "Task0.5"
+  464  git add Task06.py
+  465  git commit -m "Task0.6"
+  466  git add Task07.py
+  467  git commit -m "Task0.7"
+  468  git add Task08.py
+  469  git commit -m "Task0.8"
+  470  git add Task09.py
+  471  git commit -m "Task0.9"
+  472  git add Task10.py
+  473  git commit -m "Task10"
+  474  git status
+  475  git remote add origin https://github.com/Gaming-War-Zone/Level-0-coding-challenges.git
+  476  git remote set-url https://github.com/Gaming-War-Zone/Level-0-coding-challenges.git
+  477  git remote set-url origin https://github.com/Gaming-War-Zone/Level-0-coding-challenges.git
+  478  git branch
+  479  git branch -M main
+  480  git push -u origin main
+  481  git log
+  482  git status
+  483  ls -a
+  484  cat README.md
+  485  rm README.md
+  486  ls -a
+  487  git push -u origin main
+  488  git status
+  489  git rm README.md
+  490  git status
+  491  git push -u origin main
+  492  ls -a
+  493  cat history.txt
+  494  clear
+  495  cat history.txt
+  496  ls -a
+  497  cat milkshakes.md
+  498  git status
+  499  git commit
+  500  git commit -m " "
+  501  git push
+  502  git remote set-url origin https://github.com/Gaming-War-Zone/git-basic-exercises.git/\n
+  503  git push -u origin master
+  504  git push -u origin main
+  505  ls -a
+  506  git push -u origin master
+  507  git remote set-url origin https://github.com/Gaming-War-Zone/git-basic-exercises.git\n
+  508  git push -u origin master
+  509  git clone https://github.com/Gaming-War-Zone/git-basic-exercises.git
+  510  ls -a
+  511  cd git-basic-exercises
+  512  ls -a
+  513  cat README.md
+  514  git status
+  515  ls -a
+  516  git rm README.md
+  517  git add README.md
+  518  git status
+  519  git commit -m "fixed conflict"
+  520  ls -a
+  521  git status
+  522  git push
+  523  mkdir git-basic-exercises
+  524  git init
+  525  ls -a
+  526  rm .git
+  527  cd git-basic-exercises
+  528  ls -a
+  529  git init
+  530  git status
+  531  git branch 
+  532  clear
+  533  ls -a
+  534  git branch
+  535  git branch main
+  536  git branch master
+  537  git log
+  538  git clone https://github.com/Gaming-War-Zone/git-basic-exercises.git
+  539  ls -a
+  540  git  init
+  541  ls -a
+  542  touch README.md
+  543  ls -a
+  544  git status
+  545  git add
+  546  git status
+  547  git add README.md
+  548  git status
+  549  git commit -m 
+  550  git commit -m "initial commit"
+  551  git log
+  552  nano README.md
+  553  cat README.md
+  554  git status
+  555  git commit -m "second commit"
+  556  git log
+  557  git add README.md
+  558  git commit -m "second commit"
+  559  git log
+  560  git status
+  561  nano README.md
+  562  git add README.md
+  563  git commit -m "third commit"
+  564  git log
+  565  git status
+  566  git branch
+  567  git branch milkshake-flavours
+  568  git branch
+  569  git checkout milkshake-flavours
+  570  nano milkshakes.md
+  571  ls -a
+  572  git status
+  573  git add milkshakes.md
+  574  git commit -m "added initial flavours"
+  575  git log
+  576  clear
+  577  git checkout master
+  578  git branch history
+  579  git log
+  580  git branch
+  581  git checkout history
+  582  history > history.txt
+  583  git status
+  584  git add history.txt
+  585  git commit -m "added history"
+  586  git log
+  587  git status
+  588  clear
+  589  git checkout milkshake-flavours
+  590  git log
+  591  ls -a
+  592  nano README.md
+  593  git add README.md
+  594  git commit -m "random readme changes"
+  595  git checkout history 
+  596  cat README.md
+  597  git branch
+  598  rm README.md
+  599  echo "booya" > README.md
+  600  cat README.md
+  601  git add README.md
+  602  git commit -m "remote readme"
+  603  git checkout master
+  604  ls
+  605  git log
+  606  git checkout milkshake-flavours
+  607  ls
+  608  git log
+  609  git checkout history 
+  610  ls
+  611  git log
+  612  git checkout master 
+  613  git merge milkshake-flavours
+  614  ls
+  615  git log
+  616  git branch 
+  617  git merge history
+  618  git status
+  619  git add README.md
+  620  git status
+  621  git commit
+  622  git status
+  623  git log
+  624  git merge history
+  625  git checkout history 
+  626  git log
+  627  git checkout milkshake-flavours
+  628  git log
+  629  git checkout history 
+  630  git ls
+  631  ls
+  632  git log
+  633  git checkout history 
+  634  git merge master
+  635  git log
+  636  git checkout master
+  637  git log
+  638  git remote add origin https://github.com/Gaming-War-Zone/git-basic-exercises.git
+  639  git branch -M main
+  640  git push -u origin main
+  641  git log
+  642  git status
+  643  git branch
+  644  ls master
+  645  ls -a
+  646  ls large-directory-that-should-be-local-only
+  647  git log
+  648  git push
+  649  mkdir git-basic-exercises
+  650  cd git-basic-exercises
+  651  ls -a
+  652  git init 
+  653  ls -a
+  654  git status
+  655  git branch
+  656  touch README.md
+  657  ls -a
+  658  git status
+  659  git log
+  660  git add README.md
+  661  git status
+  662  git commit -m "initial commit"
+  663  git log
+  664  nano README.md
+  665  cat README.md
+  666  git status
+  667  git commit -m "second commit"
+  668  git add README.md
+  669  git commit -m "second commit"
+  670  git status
+  671  git log
+  672  nano README.md
+  673  git add README.md
+  674  git commit -m "third commit"
+  675  git status 
+  676  git log
+  677  git checkout 
+  678  git checkout 7874fc15f3a628ba917b52d8296291f964b50891
+  679  cat README.md
+  680  git checkout main
+  681  git checkout master
+  682  git switch -
+  683  git checkout 7874fc15f3a628ba917b52d8296291f964b50891
+  684  cat README.md
+  685  git branch
+  686  git switch master
+  687  git branch
+  688  git log
+  689  git branch
+  690  git branch milkshake-flovours
+  691  git branch 
+  692  git switch milkshake-flovours
+  693  git branch 
+  694  nano milkshakes.md
+  695  git status
+  696  git add milkshakes.md
+  697  git commit -m "added initial flavours"
+  698  git log
+  699  git branch
+  700  git branch master
+  701  git log
+  702  git branch history
+  703  git checkout history 
+  704  git log
+  705  git branch
+  706  history > history.txt
+  707  ls -a
+  708  git add history.txt
+  709  git commit -m "added history"
+  710  git log
+  711  nano README.md
+  712  git status
+  713  git add README.md
+  714  git commit -m "random readme changes"
+  715  git checkout history 
+  716  cat README.md
+  717  git branch
+  718  rm README.md
+  719  echo "booya" > README.md
+  720  git add README.md
+  721  git commit -m "rewrote readme"
+  722  git checkout master
+  723  cat README.md
+  724  git log
+  725  git checkout master 
+  726  ls
+  727  git log
+  728  git checkout milkshake-flovours
+  729  ls
+  730  git log
+  731  git checkout history 
+  732  ls
+  733  rm milkshakes.md
+  734  ls
+  735  git log
+  736  git checkout a76648eca871a4c568437a7c9d3647f9e842be5b
+  737  git branch 
+  738  rm a76648eca871a4c568437a7c9d3647f9e842be5b 
+  739  git status
+  740  git commit -a 
+  741  git status
+  742  git commit
+  743  git status
+  744  gitk --date-order
+  745  git log --graph --decorate --oneline
+  746  git rebase -p --onto a76648e^ a76648e
+  747  git commit -m 
+  748  git commit
+  749  git branch
+  750  git add milkshakes.md
+  751  git commit
+  752  git commit -m "skip"
+  753  git status
+  754  git rebase -p --onto a76648e^ a76648e
+  755  git branch 
+  756  git checkout milkshake-flovours
+  757  git log
+  758  git branch
+  759  git rebase -p --onto a76648e^ a76648e
+  760  git status
+  761  git log
+  762  git branch
+  763  nano README.md 
+  764  git log
+  765  git add README.md
+  766  git commit -m "random readme changes"
+  767  git status
+  768  git log
+  769  git branch
+  770  git checkout history 
+  771  git log
+  772  git checkout master
+  773  ls
+  774  git log
+  775  git checkout milkshake-flovours
+  776  ls
+  777  rm history.txt
+  778  ls
+  779  git log
+  780  git rebase -p --onto 7e81d3b365d4b132864378bdc0c751218d25fe74\n^ 7e81d3b365d4b132864378bdc0c751218d25fe74\n
+  781  git log
+  782  git branch
+  783  git rebase -p --onto 3b365d4b132864378bdc0c751218d25fe74\n^ 3b365d4b132864378bdc0c751218d25fe74
+  784  git log --graph --decorate --oneline
+  785  git rebase -p --onto 7e81d3b^ 7e81d3b
+  786  git status
+  787  git rm history.txt
+  788  git status
+  789  git commit
+  790  git status 
+  791  git restore --staged history.txt
+  792  git restore history.txt
+  793  git status
+  794  ls
+  795  git log --graph --decorate --oneline
+  796  git branch
+  797  git rebase -p --onto 7e81d3b^ 7e81d3b
+  798  ls
+  799  git log
+  800  git checkout history 
+  801  ls
+  802  git checkout milkshake-flovours
+  803  ls
+  804  git checkout hi
+  805  git checkout history 
+  806  ls
+  807  git log --graph --decorate --oneline
+  808  ls
+  809  git status
+  810  git rebase -p --onto f938df0^ f938df0
+  811  ls
+  812  git log
+  813  git status
+  814  git log --graph --decorate --oneline
+  815  git rebase -p --onto c50772e^ c50772e
+  816  git status
+  817  git rebase --skip
+  818  ls
+  819  git log
+  820  git status
+  821  ls
+  822  git log
+  823  rm README.md
+  824  echo "booya" > README.md
+  825  git add README.md
+  826  git commit -m "rewrote readme"
+  827  git status
+  828  git log
+  829  git checkout master 
+  830  git log
+  831  ls
+  832  git checkout milkshake-flovours
+  833  ls
+  834  git log
+  835  git checkout history 
+  836  ls
+  837  git log
+  838  git checkout master
+  839  git merge milkshake-flovours
+  840  ls
+  841  git log
+  842  git checkout history 
+  843  git log
+  844  git checkout milkshake-flovours
+  845  git log
+  846  git checkout history 
+  847  git checkout master
+  848  git merge history 
+  849  git status
+  850  git branch
+  851  git add README.md
+  852  git commit
+  853  ls
+  854  git merge history 
+  855  git log
+  856  clear
+  857  git branch
+  858  git remote add origin http://github.com/Gaming-War-Zone/git-basic-exercises.git
+  859  git branch -M master
+  860  git push -u origin master
+  861  git status
+  862  git remote add origin http://github.com/Gaming-War-Zone/git-basic-exercises.git
+  863  git branch -M master
+  864  git push -u origin master
+  865  git https://github.com/Gaming-War-Zone/git-basic-exercises.git
+  866  git remote add origin https://github.com/Gaming-War-Zone/git-basic-exercises.git
+  867  git branch -M master
+  868  git push -u origin master
+  869  git status 
+  870  cd ../
+  871  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  872  cd a-repo-to-clone
+  873  git branch
+  874  git log
+  875  git branch -a
+  876  ls
+  877  git checkout project/git-basic-exercises
+  878  ls
+  879  git status
+  880  cd ../
+  881  ls -a
+  882  cd a-repo-to-clone
+  883  ls -a
+  884  git branch -a
+  885  git remote -v
+  886  cd project/git-basic-exercises
+  887  git checkout project/git-basic-exercises
+  888  git checkout project
+  889  ls
+  890  ls -a
+  891  cat .gitignore
+  892  ls -a 
+  893  git branch 
+  894  git branch -a
+  895  get remote -v
+  896  git remote -v
+  897  git status
+  898  git log
+  899  git checkout 7030144d62e9e797f89c4cbde98dc9c28de2d5f5
+  900  ls -a
+  901  git switch -
+  902  git log --graph --decorate --oneline
+  903  git checkout origin/main
+  904  ls -a
+  905  git log
+  906  git branch 
+  907  git checkout origin/HEAD
+  908  git branch
+  909  git switch -
+  910  git branch 
+  911  git checkout HEAD
+  912  git checkout main
+  913  ls
+  914  ls -a 
+  915  cat .get
+  916  cat README.md
+  917  git branch project/git-basic-exercises
+  918  git log
+  919  cd git-basic-exercises
+  920  cd ../
+  921  mkdir this-will-be-another-repo
+  922  ls -a
+  923  cd this-will-be-another-repo
+  924  git init
+  925  touch README.md
+  926  cd git-basic-exercises
+  927  cd ../
+  928  cd git-basic-exercises
+  929  git log
+  930  touch ignore-me.db
+  931  git status
+  932  nano .gitignore
+  933  git status
+  934  mkdir large-directory-that-should-be-local-only
+  935  cd large-directory-that-should-be-local-only
+  936  touch readme.md
+  937  nano readme.md
+  938  cd ..
+  939  git status
+  940  nano large-directory-that-should-be-local-only
+  941  nano .gitignore
+  942  git status
+  943  git add .gitignore
+  944  git commit -m "added .gitignore"
+  945  git status
+  946  git push 
+  947  git push
+  948  git status
+  949  git log
+  950  cd ../
+  951  mkdir how-repo-work
+  952  cd how-repo-work
+  953  git clone https://github.com/Umuzi-org/fhatuwani-tshivhase-606-tilde-project-tutorial-how-repo-projects-work-.git
+  954  ls -a
+  955  git init
+  956  git status
+  957  cd fhatuwani-tshivhase-606-tilde-project-tutorial-how-repo-projects-work-
+  958  ls -a
+  959  cat markdown.md
+  960  cd ..
+  961  ls -a
+  962  cd fhatuwani-tshivhase-606-tilde-project-tutorial-how-repo-projects-work-
+  963  ls -a
+  964  git log
+  965  git branch 
+  966  git branch making-changes
+  967  ls -a
+  968  nano markdown.md 
+  969  git switch making-changes
+  970  ls -a
+  971  git status
+  972  git switch master
+  973  git switch main
+  974  git status
+  975  git restore markdoen.md
+  976  git restore markdown.md
+  977  git status
+  978  git switch making-changes
+  979  ls -a
+  980  nano markdown.md 
+  981  cat markdown.md
+  982  git status
+  983  git add markdown.md 
+  984  git commit -m "Added more text"
+  985  git log
+  986  git checkout main
+  987  git merge making-changes
+  988  ls -a
+  989  git branch
+  990  git checkout main
+  991  ls -a
+  992  git status
+  993  git log
+  994  git checkout making-changes
+  995  ls -a
+  996  git log
+  997  git checkout main
+  998  git remote add origin https://github.com/Gaming-War-Zone/repo-merge-and-push.git
+  999  git branch -M main
+ 1000  git remote add origin https://github.com/Gaming-War-Zone/repo-merge-and-push.git
+ 1001  git remote add origin https://github.com/Gaming-War-Zone/repo-merge-edit-and-push.git
+ 1002  clear
+ 1003  git remote add origin https://github.com/Gaming-War-Zone/repo-merge-edit-and-push.git
+ 1004  git remote add origin https://github.com/Gaming-War-Zone/repo-merge-edit-and-pushh.git
+ 1005  git push
+ 1006  git branch
+ 1007  git remote add origin https://github.com/Gaming-War-Zone/repo-merge-edit-and-push.git
+ 1008  git log
+ 1009  git remote set-url origin https://github.com/Gaming-War-Zone/repo-merge-edit-and-push.git
+ 1010  git push 
+ 1011  git remote set-url origin https://github.com/Gaming-War-Zone/repo-merge-and-push.git
+ 1012  git push
+ 1013  clear
+ 1014  ls -a
+ 1015  git branch
+ 1016  git branch main 
+ 1017  git init
+ 1018  touch README.md
+ 1019  cat README.md
+ 1020  ls -a
+ 1021  git branch
+ 1022  git log
+ 1023  git add
+ 1024  git add README.md
+ 1025  git status
+ 1026  git commit -m "initial commit"
+ 1027  git log
+ 1028  nano README.md 
+ 1029  cat README.md
+ 1030  git status
+ 1031  git commit -m "second commit"
+ 1032  git add README.md
+ 1033  git commit -m "second commit"
+ 1034  nano README.md 
+ 1035  git add README.md
+ 1036  git commit -m "third commit"
+ 1037  git log
+ 1038  git checkout a5415df08772e803f5ff954d8f2776300fe076ea\n
+ 1039  cat README.md
+ 1040  git checkout master
+ 1041  cat README.md
+ 1042  git branch
+ 1043  git branch milkshake-flovours
+ 1044  git branch
+ 1045  git checkout milkshake-flovours
+ 1046  nano milkshakes.md
+ 1047  git status
+ 1048  git add milkshakes.md
+ 1049  git commit -m "added initial flavours"
+ 1050  git log
+ 1051  git checkout master
+ 1052  git branch history 
+ 1053  git checkout history 
+ 1054  git branch
+ 1055  history > history.txt
+ 1056  git status
+ 1057  git add history.txt
+ 1058  git commit -m "added history"
+ 1059  git checkout milkshake-flovours
+ 1060  ls -a
+ 1061  nano milkshakes.md
+ 1062  nano README.md 
+ 1063  git status
+ 1064  git add README.md
+ 1065  git commit -m "random readme changes"
+ 1066  git checkout history 
+ 1067  cat README.md
+ 1068  rm README.md
+ 1069  echo "booya" > README.md
+ 1070  ls -a
+ 1071  cat README.md
+ 1072  git add README.md
+ 1073  git commit -m "rewrote readme"
+ 1074  git checkout master
+ 1075  ls
+ 1076  git log
+ 1077  git checkout milkshake-flovours
+ 1078  ls
+ 1079  git log
+ 1080  git checkout history 
+ 1081  ls
+ 1082  git log
+ 1083  git checkout master
+ 1084  git merge milkshake-flovours
+ 1085  ls
+ 1086  git log
+ 1087  git merge history
+ 1088  ls
+ 1089  git log
+ 1090  git branch history 
+ 1091  git checkout history 
+ 1092  git merge README.md
+ 1093  git status
+ 1094  git add README.md
+ 1095  git commit -m "fixed commit error"
+ 1096  git commit --amend --reset-author
+ 1097  git branch --unset-upstream
+ 1098  git status
+ 1099  git branch
+ 1100  git log
+ 1101  ls 
+ 1102  git checkout history 
+ 1103  git log
+ 1104  git checkout milkshake-flovours
+ 1105  git checkout history
+ 1106  git merge master
+ 1107  git checkout master
+ 1108  git log
+ 1109  git remote add origin https://github.com/Gaming-War-Zone/git-basic-exercises.git
+ 1110  git brach -M master
+ 1111  git branch -M master
+ 1112  git branch -M main
+ 1113  git push -u origin main
+ 1114  git push -u origin master
+ 1115  git push -u origin main
+ 1116  git status
+ 1117  git checkout milkshake-flovours
+ 1118  ls
+ 1119  git checkout history
+ 1120  ls
+ 1121  git push
+ 1122  git push --set-upstream origin history 
+ 1123  git remote set-url origin https://github.com/Gaming-War-Zone/git-basic-exercises.git
+ 1124  git push --set-upstream origin history 
+ 1125  git pull ...
+ 1126  git remote set-url origin https://github.com/Gaming-War-Zone/git-basic-exercises.git
+ 1127  git pull ...
+ 1128  git ls -a
+ 1129  ls -a
+ 1130  git branch
+ 1131  git checkout main
+ 1132  ls -a
+ 1133  git log
+ 1134  git checkout history
+ 1135  ls -a
+ 1136  git checkout milkshake-flovours
+ 1137  ls -a
+ 1138  git branch
+ 1139  ls -a
+ 1140  git branch
+ 1141  git clone https://github.com/Umuzi-org/git-basic-exercises.git
+ 1142  git clone https://github.com/Gaming-War-Zone/git-basic-exercises.git
+ 1143  ls -a
+ 1144  cd git-basic-exercises
+ 1145  ls -a
+ 1146  git branch
+ 1147  git remote add origin https://github.com/Gaming-War-Zone/git-basic-exercises.git
+ 1148  git branch -M main
+ 1149  git push -u origin main
+ 1150  git remote set-url origin https://github.com/Gaming-War-Zone/git-basic-exercises.git
+ 1151  git push -u origin main
+ 1152  git push -u origin master
+ 1153  git status
+ 1154  ls -a
+ 1155  touch README.md
+ 1156  ls -a
+ 1157  git add README.md
+ 1158  git commit -m "initial commit"
+ 1159  git log
+ 1160  git branch
+ 1161  ls -a 
+ 1162  cat README.md
+ 1163  git log
+ 1164  nano README.md 
+ 1165  cat README.md
+ 1166  git stats
+ 1167  git status
+ 1168  git add README.md
+ 1169  git commit -m "second commit"
+ 1170  nano README.md 
+ 1171  git add README.md
+ 1172  git commit -m "third commit"
+ 1173  git log
+ 1174  clear
+ 1175  git checkout main
+ 1176  git branch
+ 1177  git branch milkshake-flovours
+ 1178  git branch
+ 1179  git checkout milkshake-flovours
+ 1180  git branch 
+ 1181  nano milkshakes.md
+ 1182  git status
+ 1183  git add milkshakes.md
+ 1184  git commit -m "added initial flavours"
+ 1185  git log
+ 1186  clear
+ 1187  git checkout main
+ 1188  git log
+ 1189  git branch history
+ 1190  git checkout history 
+ 1191  git log
+ 1192  git branch
